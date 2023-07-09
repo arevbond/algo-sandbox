@@ -4,3 +4,4 @@
 
 **[Easy:](solutions/easy)** 
 - [Contains Duplicate](solutions/easy/Contains_Duplicate)
+- [Missing Number](solutions/easy/Missing_Number)
