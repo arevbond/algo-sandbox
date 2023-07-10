@@ -1,9 +1,9 @@
-Missing Number
+## Missing Number
 ***
-Tags: Arrays, Bit Manipulation
+**Tags**: Arrays, Bit Manipulation
 
-Time: O(n)
-Space: O(1)
+**Time**: O(n) \
+**Space**: O(1)
 
 **Объяснение:**
 

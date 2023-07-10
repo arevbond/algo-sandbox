@@ -1,7 +1,7 @@
 ### Contains Duplicate 
 ***
-Tags: Arrays
+**Tags**: Arrays
 
-Time: O(n)
-Space: O(n)
+**Time**: O(n) \
+**Space**: O(n)
 
