@@ -6,3 +6,7 @@
 - **[Contains Duplicate](solutions/easy/Contains_Duplicate)** [Arrays]
 - **[Missing Number](solutions/easy/Missing_Number)** [Arrays, Bit Manipulation]
 - **[Find All Numbers Disappeared in an Array](solutions/easy/Find_All_Numbers_Disappeared_in_an_Array)** [Arrays]
+- **[Single Number](solutions/easy/Single_Number)** [Arrays, Bit Manipulation]
+
+### [Medium:](solutions/medium)
+- **[3Sum](solutions/medium/3Sum)** [Two Pointers]
