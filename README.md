@@ -10,3 +10,6 @@
 
 ### [Medium:](solutions/medium)
 - **[3Sum](solutions/medium/3Sum)** [Two Pointers]
+- **[Course Schedule](solutions/medium/Course_Schedule)** [DFS, BFS, Graph]
+- **[Top K Frequent Elements](solutions_with_themes/Array_Hashing/Top_K_Frequent_Elements/main.go)** [Array, Hash Table]
+- **[Product of Array Except Self](solutions_with_themes/Array_Hashing/Product_of_Array_Except_Self/main.go)** [Array, Prefix Sum]

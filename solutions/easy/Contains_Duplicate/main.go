@@ -29,3 +29,16 @@ func (s *Set) Has(val int) bool {
 	_, ok := s.values[val]
 	return ok
 }
+
+// более короткое
+
+func containsDuplicate2(nums []int) bool {
+	set := make(map[int]bool)
+	for _, num := range nums {
+		if _, ok := set[num]; ok {
+			return true
+		}
+		set[num] = true
+	}
+	return false
+}
