@@ -8,6 +8,7 @@
 - **[Find All Numbers Disappeared in an Array](solutions/easy/Find_All_Numbers_Disappeared_in_an_Array)** [Arrays]
 - **[Single Number](solutions/easy/Single_Number)** [Arrays, Bit Manipulation]
 - **[Two Sum](solutions/easy/Two_Sum/main.go)** [Hash Map]
+- **[Binary Search](solutions_with_themes/Binary_Search/Binary_Search/main.go)** [Binary Search]
 
 ### Medium
 - **[3Sum](solutions/medium/3Sum)** [Two Pointers]
@@ -19,3 +20,4 @@
 - **[Generate Parenthneses](solutions_with_themes/Stack/Generate_Parenthneses/main.go)** [Backtracking]
 - **[Number Of Longest Increasing Subsequence](solutions/medium/Number_Of_Longest_Inceasing_Subsequence/main.go)** [Dynamic Programming]
 - **[Longest_Increasing_Subsequence](solutions/medium/Longest_Increasing_Subsequence/main.go)** [Dynamic Programming]
+- **[Search a 2D Matrix](solutions_with_themes/Binary_Search/Search_a_2D_Matrix/main.go)** [Binary Search]
