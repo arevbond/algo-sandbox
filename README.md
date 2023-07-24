@@ -9,6 +9,7 @@
 - **[136. Single Number](solutions/easy/Single_Number)** [Arrays, Bit Manipulation]
 - **[1. Two Sum](solutions/easy/Two_Sum/main.go)** [Hash Map]
 - **[704. Binary Search](solutions_with_themes/Binary_Search/Binary_Search/main.go)** [Binary Search]
+- **[121. Best Time to Buy and Sell Stock](solutions_with_themes/Sliding_Window/121_Best_Time_to_Buy_and_Sell_Stock/main.go)** [Greedy]
 
 ### Medium
 - **[15. 3Sum](solutions/medium/3Sum)** [Two Pointers]
@@ -21,4 +22,4 @@
 - **[673. Number of Longest Increasing Subsequence](solutions/medium/Number_Of_Longest_Inceasing_Subsequence/main.go)** [Dynamic Programming]
 - **[300. Longest Increasing Subsequence](solutions/medium/Longest_Increasing_Subsequence/main.go)** [Dynamic Programming]
 - **[74. Search a 2D Matrix](solutions_with_themes/Binary_Search/Search_a_2D_Matrix/main.go)** [Binary Search]
-- **[153. Find Minimum in Rotated Sorted Array](solutions_with_themes/Binary_Search/Find_minimy_in_Rotated_Search)** [Binary Search]
+- **[153. Find Minimum in Rotated Sorted Array](solutions_with_themes/Binary_Search/Find_Minimum_in_Rotated_Sorted_Array/main.go)** [Binary Search]
