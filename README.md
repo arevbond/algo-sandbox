@@ -26,3 +26,4 @@
 - **[3. Longest Substring Without Repeating Characters](solutions_with_themes/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters/main.go)** [Sliding Window]
 - **[424. Longest Repeating Character Replacement](solutions_with_themes/Sliding_Window/424_Longest_Repeating_Character_Replacement/main.go)** [Sliding Window]
 - **[852. Peak Index in a Mountain Array](solutions/medium/852_Peak_Index_in_a_Mountain_Array/main.go)** []
+- **[567. Permutation in String](solutions_with_themes/Sliding_Window/567_Permutation_in_String/main.go)** [Sliding Window]
