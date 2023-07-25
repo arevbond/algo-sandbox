@@ -24,3 +24,5 @@
 - **[74. Search a 2D Matrix](solutions_with_themes/Binary_Search/Search_a_2D_Matrix/main.go)** [Binary Search]
 - **[153. Find Minimum in Rotated Sorted Array](solutions_with_themes/Binary_Search/Find_Minimum_in_Rotated_Sorted_Array/main.go)** [Binary Search]
 - **[3. Longest Substring Without Repeating Characters](solutions_with_themes/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters/main.go)** [Sliding Window]
+- **[424. Longest Repeating Character Replacement](solutions_with_themes/Sliding_Window/424_Longest_Repeating_Character_Replacement/main.go)** [Sliding Window]
+- **[852. Peak Index in a Mountain Array](solutions/medium/852_Peak_Index_in_a_Mountain_Array/main.go)** []
