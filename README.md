@@ -10,6 +10,7 @@
 - **[1. Two Sum](solutions/easy/Two_Sum/main.go)** [Hash Map]
 - **[704. Binary Search](solutions_with_themes/Binary_Search/Binary_Search/main.go)** [Binary Search]
 - **[121. Best Time to Buy and Sell Stock](solutions_with_themes/Sliding_Window/121_Best_Time_to_Buy_and_Sell_Stock/main.go)** [Greedy]
+- **[206. Reverse Linked List](solutinons/easy/206_Reverse_Linked_List/main.go)** []
 
 ### Medium
 - **[15. 3Sum](solutions/medium/3Sum)** [Two Pointers]
