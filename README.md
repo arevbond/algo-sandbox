@@ -11,6 +11,7 @@
 - **[704. Binary Search](solutions_with_themes/Binary_Search/Binary_Search/main.go)** [Binary Search]
 - **[121. Best Time to Buy and Sell Stock](solutions_with_themes/Sliding_Window/121_Best_Time_to_Buy_and_Sell_Stock/main.go)** [Greedy]
 - **[206. Reverse Linked List](solutinons/easy/206_Reverse_Linked_List/main.go)** []
+- **[21. Merge Two Sorted Lists](solutions_with_themes/Linked_List/21_Merge_Two_Sorted_Lists/main.go)** [Two Pointers]
 
 ### Medium
 - **[15. 3Sum](solutions/medium/3Sum)** [Two Pointers]
