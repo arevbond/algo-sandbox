@@ -25,4 +25,4 @@ func reorderList(head *ListNode) {
         first.Next, first = prev, first.Next
         prev.Next, prev = first, prev.Next
     }
-}
+} 
