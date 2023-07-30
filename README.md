@@ -12,6 +12,7 @@
 - **[121. Best Time to Buy and Sell Stock](solutions_with_themes/Sliding_Window/121_Best_Time_to_Buy_and_Sell_Stock/main.go)** [Greedy]
 - **[206. Reverse Linked List](solutinons/easy/206_Reverse_Linked_List/main.go)** []
 - **[21. Merge Two Sorted Lists](solutions_with_themes/Linked_List/21_Merge_Two_Sorted_Lists/main.go)** [Two Pointers]
+- **[141. Linked List Cycle](solutions_with_themes/Linked_list/141_Linked_List_Cycle/main.go)()**
 
 ### Medium
 - **[15. 3Sum](solutions/medium/3Sum)** [Two Pointers]
@@ -32,3 +33,4 @@
 - **[143. Reorder List](solutions_with_themes/Linked_List/143_Reorder_List/main.go)**
 - **[19. Remove Nth Node From End of List](solutions_with_themes/Linked_List/19_Remove_Nth_Node_From_End_of_List/main.go)** []
 - **[2. Add Two Numbers](solutions_with_themes/Linked_List/2_Add_Two_Numbers/main.go)**
+- **[287. Find the Duplicate Number](solutions_with_themes/Linked_List/287_Find_the_Duplicate_Number/main.go)** []
