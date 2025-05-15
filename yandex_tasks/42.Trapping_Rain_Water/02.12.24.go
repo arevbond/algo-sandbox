@@ -5,7 +5,7 @@ package trappingrainwater
 
     1. find max height => this will be end for two loops
     2. var leftMaxHeight; first loop left -> maxHeight:
-    3. max(leftMaxHeight); if curHeight < leftMaxHeight; pour water leftMax - cur 
+    3. max(leftMaxHeight); if curHeight < leftMaxHeight; pour water leftMax - cur
     4. var rightMaxHeight; second loop maxHeight <- right:
     5. max(rightMaxHeight); if curHeight < rightMaxHeight: pour water rightMax - cur
 
