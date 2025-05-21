@@ -16,6 +16,9 @@ Explanation: T is "aa" which its length is 2.
 // e c e b b b b d
 //     l
 //       r 
+
+// k - capacity map
+// len - r - l + 1 (indices)
 func LengthOfLongestSubstringKDistinct(s string, k int) int {
 	if k == 0 {
 		return 0
