@@ -1,35 +1,34 @@
+package tasks
+
 // Must implement O(1) time complexity for each method
 type MinStack struct {
-	vals []int
+	vals        []int
 	orderedVals []int
 }
-
 
 func Constructor() MinStack {
 	return MinStack{vals: make([]int, 0), orderedVals: make([]int, 0)}
 }
 
-
-func (s *MinStack) Push(val int)  {
+func (s *MinStack) Push(val int) {
 	s.vals = append(s.vals, val)
 
 	if len(s.orderedVals) == 0 {
 		s.orderedVals = append(s.orderedVals, val)
 	} else {
-		if s.orderedVals[len(s.orderedVals) - 1] >= val {
+		if s.orderedVals[len(s.orderedVals)-1] >= val {
 			s.orderedVals = append(s.orderedVals, val)
 		}
 	}
 }
 
-
-func (s *MinStack) Pop()  {
+func (s *MinStack) Pop() {
 	if len(s.vals) == 0 {
 		return
 	}
 
-	last := s.vals[len(s.vals) - 1]
-	
+	last := s.vals[len(s.vals)-1]
+
 	s.vals = s.vals[:len(s.vals)-1]
 
 	if last == s.orderedVals[len(s.orderedVals)-1] {
@@ -46,7 +45,6 @@ func (s *MinStack) Top() int {
 	return s.vals[len(s.vals)-1]
 }
 
-
 func (s *MinStack) GetMin() int {
 	if len(s.orderedVals) == 0 {
 		return -1
@@ -54,7 +52,6 @@ func (s *MinStack) GetMin() int {
 
 	return s.orderedVals[len(s.orderedVals)-1]
 }
-
 
 /**
  * Your MinStack object will be instantiated and called as such:

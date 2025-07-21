@@ -1,3 +1,5 @@
+package tasks
+
 func twoSum(nums []int, target int) []int {
 	// number: indx
 	mp := make(map[int]int)
