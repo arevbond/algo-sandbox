@@ -1,6 +1,6 @@
 package tasks
 
-func canVisitAllRooms2(rooms [][]int) bool {
+func canVisitAllRooms(rooms [][]int) bool {
 	// room: keys
 	paths := make(map[int][]int)
 
@@ -28,12 +28,6 @@ func canVisitAllRooms2(rooms [][]int) bool {
 
 	dfs(0)
 
-	for roomNumber := 0; roomNumber < len(rooms); roomNumber++ {
-		if _, ok := seen[roomNumber]; !ok {
-			return false
-		}
-	}
-
-	return true
+	return len(seen) == len(rooms)
 
 }
