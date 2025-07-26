@@ -38,7 +38,7 @@ func nextValidChar(s string, indx int) int {
 }
 
 // Time: O(N), Space: O(N)
-func backspaceCompare_O-N(s string, t string) bool {
+func backspaceCompare_ON(s string, t string) bool {
 	return processBackspace(s) == processBackspace(t)	
 }
 
